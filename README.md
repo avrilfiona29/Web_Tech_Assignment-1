@@ -42,7 +42,7 @@ A professional multi-page website showcasing resume and bio-data with modern sty
 2. Upload all files
 3. Go to Settings > Pages
 4. Select main branch and save
-5. Your site will be live at `https://yourusername.github.io/repository-name`
+5. Your site will be live at `https://avrilfiona29.github.io/Web_Tech_Assignment-1/`
 
 ### Option 2: Netlify (Free)
 1. Sign up at netlify.com
